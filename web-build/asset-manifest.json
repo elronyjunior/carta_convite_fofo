@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/CartaAmanda/index.html/static/js/main.33e350da.js",
+    "static/js/612.baa0d3ef.js": "/CartaAmanda/index.html/static/js/612.baa0d3ef.js",
+    "static/media/carta_fechada.png": "/CartaAmanda/index.html/static/media/carta_fechada.964cc9eb7c01933ddfb3.png",
+    "static/media/carta_aberta.png": "/CartaAmanda/index.html/static/media/carta_aberta.b28d7636f590418fc873.png",
+    "favicon.ico": "/CartaAmanda/index.html/favicon.ico",
+    "index.html": "/CartaAmanda/index.html/index.html",
+    "favicon-32.png": "/CartaAmanda/index.html/favicon-32.png",
+    "favicon-16.png": "/CartaAmanda/index.html/favicon-16.png",
+    "serve.json": "/CartaAmanda/index.html/serve.json",
+    "manifest.json": "/CartaAmanda/index.html/manifest.json",
+    "main.33e350da.js.map": "/CartaAmanda/index.html/static/js/main.33e350da.js.map",
+    "612.baa0d3ef.js.map": "/CartaAmanda/index.html/static/js/612.baa0d3ef.js.map"
+  },
+  "entrypoints": [
+    "static/js/612.baa0d3ef.js",
+    "static/js/main.33e350da.js"
+  ]
+}
